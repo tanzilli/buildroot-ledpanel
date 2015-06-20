@@ -1,8 +1,11 @@
-#Acme Systems Buildroot 2015.05 fork
+#LedPanel firmware
 
-For ARM9 boards like [Aria G25](http://www.acmesystems.it/aria) and 
-[Arietta G25](http://www.acmesystems.it/arietta)
+This project is fork of [Buildroot 2015.05](http://buildroot.uclibc.org/) 
+tailored to manage the LedPanel a 32x32 RGB led panel + Arietta G25 
+linux embedded module made by Acme Systems srl
+ 
+* [LedPanl web site](http://www.acmesystems.it/ledpanel)
+* [GNU GENERAL PUBLIC LICENSE](/COPY)
 
-* [Original README](/README)
-* [Buildroot tutorial on Acme Systems web site](http://www.acmesystems.it/tutorials)
-
+2015 (c) Sergio Tanzilli
+sergio@tanzilli.com
